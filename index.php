@@ -33,7 +33,7 @@ fclose($fl);
     <div class="main">
         <h1 class="head">Web Profile's</h1>
         <div class="gambar" style="text-align: center"><img src="img/aboust.jpg" alt="cahyadi"></div>
-
+        
         <h1 class="hello">Hello, I'am a Programmer</h1>
         <center>
             <table>
