@@ -58,7 +58,7 @@ fclose($fl);
                     <td>Dompu, March 16 th 2000</td>
                 </tr>
                 <tr>
-                    <td>Sex</td>
+                    <td>Gender</td>
                     <td>:</td>
                     <td>Male</td>
                 </tr>
