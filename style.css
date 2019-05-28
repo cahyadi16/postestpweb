@@ -1,0 +1,65 @@
+body {
+    background-image: url(img/bg1.jpg);
+    margin: auto;
+    background-size: cover;
+
+}
+
+.kata {
+    color: white;
+    margin-top: 30px;
+    font-family: 'Ubuntu';
+    color: #F82143;
+    font-size: 30px;
+}
+
+#footer {
+    width: 100%;
+    background-color: black;
+    float: left;
+    color: white;
+    text-align: center;
+}
+
+.main {
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background: rgba(71, 122, 204, 0.4);
+    border-radius: 20px;
+    min-height: 100px;
+    padding: 20px;
+    font-family: 'Ubuntu';
+}
+
+.hello {
+    text-align: center;
+}
+
+.gambar img {
+    border-radius: 50%;
+    border: 5px solid #01A9CD;
+}
+
+.head {
+    text-align: center;
+}
+
+i {
+    margin-right: 8px;
+    color: white;
+}
+
+div .fa-facebook-square:hover {
+    color: #1877F2;
+}
+
+.fa-instagram:hover {
+    color: #F82143;
+}
+
+.fa-github {
+    color: blanchedalmond;
+}
